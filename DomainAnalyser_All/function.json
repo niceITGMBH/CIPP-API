@@ -1,0 +1,9 @@
+{
+  "bindings": [
+    {
+      "name": "DomainObject",
+      "direction": "in",
+      "type": "activityTrigger"
+    }
+  ]
+}
